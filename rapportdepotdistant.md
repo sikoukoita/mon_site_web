@@ -40,7 +40,7 @@ J'ai essayé de modifier les mêmes fichiers que siriman ce qui crée un conflit
 
 ## Exercice
  ### Clonez un dépôt distant.
- Pour cloner un d"pot distznt, il suffit de taper *git clone suivi de l'adesse https*
+ Pour cloner un d"pot distant, il suffit de taper *git clone suivi de l'adesse https*
  ### Créez une nouvelle branche b1, faites quelques commits dans b1 puis fusionnez-les dans le master.
  les branches c'est une sorte de timeline en parallèle.
  Pour créer une branche, il suffit de taper la ligne de commande **git branche le nom que nous souhaitons donner à la branche.
