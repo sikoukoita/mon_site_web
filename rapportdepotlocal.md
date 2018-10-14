@@ -21,11 +21,17 @@ Pour supprimer, j'ai créé le quatrième fichier "fichierasupprimer" en utilisa
 
 
 ## Affichez l'historique des commits et revenez dans un état précédent du dépot. Vérifiez que vos fichiers reviennent bien à l'état correspondant au commit.
-L'hiistorique du depôt git est constitué d'un ensemble d commits reliés entre eux par un pointeur. Un ensemble de commits reliés entre 
+La commande git log permet de lister des commits
+L'hiistorique du depôt git est constitué d'un ensemble de commits reliés entre eux par un pointeur. Un ensemble de commits reliés entre 
 eux, qui constituent ce qu'on appelle une BRANCHE.
 Master, c'est la branche principale; un commit est constitué tout d'abord d'un identifiant unique de 40 caractères, d'un ensemble de modifications, les informations sur le développeur(utilisateur), des commentaires.
 
-## Ajoutez une étiquette à un ancien commit et vérifiez que vous la voyez dans l'historique des commits ou avec un client Git graphique.
+## Ajoutez une étiquette à un ancien commit et vérifiez que vous la voyez dans l'historique des commits ou avec un client Git graphique
+Pour ajouter une étiquette à un ancien commit, la commande gitk (étiquette) a été utilisée suivie le nom.
+
+
+## Testez les suppressions de commits.
+La commande git tag --delete permet de supprimer 
 
 
 
