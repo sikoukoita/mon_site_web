@@ -13,7 +13,7 @@ Je me suis associé à Youssef et Siriman pour accéder à ses dossiers.
 
 ![]("C:/Users/lenovo/Desktop/Master CCI/collabo.png")
 
-##Créez un dépôt sur le serveur Gogs et ajoutez vos collègues comme collaborateurs
+## Créez un dépôt sur le serveur Gogs et ajoutez vos collègues comme collaborateurs
 J'ai ajouté mon collègue siriman comme collaborateur en cliquant sur l'onglet *collaboration*.
 
 ![]("C:/Users/lenovo/Desktop/Master CCI/clone.png"
