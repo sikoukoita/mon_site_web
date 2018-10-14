@@ -5,11 +5,20 @@ Git aide les developpeurs et les chefs de projet davoir une pléthore de conde.C
 
 # Exercice
 ## Créez un nouveau dépôt local, ajoutez des fichiers et faites quelques modifications+commits ; affichez l'état du dépôt à chaque étape.
-Pour créer un dépot local sur git, il faut utiliser la commande ## mkdir suivi le nom de que l'on souhaite donner à notre dépôt local.
+Pour créer un dépot local sur git, il faut utiliser la commande mkdir suivi le nom  que l'on souhaite donner à notre dépôt local.
 Pour vérifier que le dossier a été bien créé, il suffit taper la commande ls sur le terminal.On peut également utilser une autre commande
 très utile qui permet de dire tout simplement de se déplacer en arrière.
+La commande git init nous permet d'initialiser notre projet.Cette dernière va ajouter un dossier caché .get.
+Finalement ce dossier va contenir un ensemble d'informations qui nous permettent la gestion de notre dossier comme étant un dépot git.
+Le dossier contient l'historique de nos midifications, la zone d'index, autres informations pour la gestion.
+![]
+
+## Renommez et supprimez quelques fichiers.
+Pour renommer les fichiers et les repertoires, j'ai utilisé la commande mv qui ne sert pas seulement à renommer mais aussi à dépalcer
+les fichiers.Pour cela, j'ai créé  des trois fichiers(f1,f2,f3) et les ai renommés par fichier1, fichier2 et fichier3.
+Pour supprimer, j'ai créé le quatrième fichier "fichierasupprimer" en utilisant
 
 
+## Affichez l'historique des commits et revenez dans un état précédent du dépot. Vérifiez que vos fichiers reviennent bien à l'état correspondant au commit.
 
-## Créez un nouveau dépôt local, ajoutez des fichiers et faites quelques modifications+commits ; affichez l'état du dépôt à chaque étape.
 
