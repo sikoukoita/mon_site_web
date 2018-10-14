@@ -38,12 +38,13 @@ J'ai essayé de modifier les mêmes fichiers que siriman ce qui crée un conflit
 à la fois.
 ![]("C:/Users/lenovo/Desktop/Master CCI/sirimanmodifier.png")
 
+
 ## Vérifiez que vous avez bien un conflit, résolvez-le et synchronisez tout le monde.
  Lors d'un conflit, la commande git merge nous sera très utile. Eller permet de nous afficher l'interface entre les versions en conflit
  et en décider de quellemanière merger les différentes versions du fichier.
  ![]("C:/Users/lenovo/Desktop/Master CCI/conflit.png")
-
-
+ ![]("C:/Users/lenovo/Desktop/Master CCI/conflitconfirmé.png")
+ ![]("C:/Users/lenovo/Desktop/Master CCI/correctionconflit.png"
 
 ## Exercice
  ### Clonez un dépôt distant.
