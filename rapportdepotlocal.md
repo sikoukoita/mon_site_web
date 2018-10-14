@@ -4,6 +4,7 @@ Git aide les developpeurs et les chefs de projet davoir une pléthore de conde.C
 à distance, ce qui le rend très utile. C'est le logiciel le plus utilisé au mond actuellement.
 
 # Exercice
+
 ## Créez un nouveau dépôt local, ajoutez des fichiers et faites quelques modifications+commits ; affichez l'état du dépôt à chaque étape.
 Pour créer un dépot local sur git, il faut utiliser la commande mkdir suivi le nom  que l'on souhaite donner à notre dépôt local.
 Pour vérifier que le dossier a été bien créé, il suffit taper la commande ls sur le terminal.On peut également utilser une autre commande
@@ -23,5 +24,9 @@ Pour supprimer, j'ai créé le quatrième fichier "fichierasupprimer" en utilisa
 L'hiistorique du depôt git est constitué d'un ensemble d commits reliés entre eux par un pointeur. Un ensemble de commits reliés entre 
 eux, qui constituent ce qu'on appelle une BRANCHE.
 Master, c'est la branche principale; un commit est constitué tout d'abord d'un identifiant unique de 40 caractères, d'un ensemble de modifications, les informations sur le développeur(utilisateur), des commentaires.
+
+## Ajoutez une étiquette à un ancien commit et vérifiez que vous la voyez dans l'historique des commits ou avec un client Git graphique.
+
+
 
 
