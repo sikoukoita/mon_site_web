@@ -16,30 +16,32 @@ Je me suis associé à Youssef et Siriman pour accéder à ses dossiers.
 ## Créez un dépôt sur le serveur Gogs et ajoutez vos collègues comme collaborateurs
 J'ai ajouté mon collègue siriman comme collaborateur en cliquant sur l'onglet *collaboration*.
 
-![]("C:/Users/lenovo/Desktop/Master CCI/clone.png"
+![]("C:/Users/lenovo/Desktop/Master CCI/clone.png)
 
 ## Récupérez votre dépôt et ajoutez/commitez/pushez quelques fichiers.
 J'ai ajouté des fichiers f1 et f2 ensuite les ai commités en utilisant la commande git commit -a.Après je les ai envoyés sur le serveur
 en utilisant la commande **git push**.
-![]
+
+![]("C:/Users/lenovo/Desktop/Master CCI/fichiers.png")
 
 ## Demandez à vos collègues de récupérer votre projet.
 J'ai demandé à mon collègue Siriman de récupérer mon projet nommé et de mon côté j'ai modifié un de ses fichiers
-![]
+![]("C:/Users/lenovo/Desktop/Master CCI/recupererprojet.png")
 
 ## Demandez à un collègue de commiter/pusher une modification et vérifiez que vous arrivez à la récupérer de votre côté.
 Reçu les fichiers que siriman a pushés 
-![]
+![]("C:/Users/lenovo/Desktop/Master CCI/pusher.png")
+
 ## Faites maintenant des modifications en parallèle sur un même fichier.
 J'ai essayé de modifier les mêmes fichiers que siriman ce qui crée un conflit en lui et moi.
 être en conflit c'est lorsque deux personnes essaient de travailler en même temps sur un seul fichier ou de modifier un seul fichier
 à la fois.
-![]
+![]("C:/Users/lenovo/Desktop/Master CCI/sirimanmodifier.png")
 
 ## Vérifiez que vous avez bien un conflit, résolvez-le et synchronisez tout le monde.
  Lors d'un conflit, la commande git merge nous sera très utile. Eller permet de nous afficher l'interface entre les versions en conflit
  et en décider de quellemanière merger les différentes versions du fichier.
-![]
+ ![]("C:/Users/lenovo/Desktop/Master CCI/conflit.png")
 
 
 
