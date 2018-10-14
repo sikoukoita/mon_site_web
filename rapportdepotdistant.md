@@ -9,7 +9,7 @@ pour récupérer le dépot en local.J'ai plutôt utilisé les lignes de commande
 
 # Exercice 2
 ## Associez-vous à un ou deux collègues.
-Je me suis associé à Youssef et Siriman pour accéder à ses dossiers.
+Je me suis associé à Youssef et Siriman pour accéder à leurs dossiers.
 
 ![]("C:/Users/lenovo/Desktop/Master CCI/collabo.png")
 
