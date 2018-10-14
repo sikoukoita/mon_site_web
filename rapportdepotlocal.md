@@ -16,9 +16,12 @@ Le dossier contient l'historique de nos midifications, la zone d'index, autres i
 ## Renommez et supprimez quelques fichiers.
 Pour renommer les fichiers et les repertoires, j'ai utilisé la commande mv qui ne sert pas seulement à renommer mais aussi à dépalcer
 les fichiers.Pour cela, j'ai créé  des trois fichiers(f1,f2,f3) et les ai renommés par fichier1, fichier2 et fichier3.
-Pour supprimer, j'ai créé le quatrième fichier "fichierasupprimer" en utilisant
+Pour supprimer, j'ai créé le quatrième fichier "fichierasupprimer" en utilisant la commande rm (le nom du fichier).
 
 
 ## Affichez l'historique des commits et revenez dans un état précédent du dépot. Vérifiez que vos fichiers reviennent bien à l'état correspondant au commit.
+L'hiistorique du depôt git est constitué d'un ensemble d commits reliés entre eux par un pointeur. Un ensemble de commits reliés entre 
+eux, qui constituent ce qu'on appelle une BRANCHE.
+Master, c'est la branche principale; un commit est constitué tout d'abord d'un identifiant unique de 40 caractères, d'un ensemble de modifications, les informations sur le développeur(utilisateur), des commentaires.
 
 
