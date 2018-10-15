@@ -9,7 +9,7 @@ Pour créer un dépot local sur git, il faut utiliser la commande mkdir suivi le
 Pour vérifier que le dossier a été bien créé, il suffit taper la commande ls sur le terminal.On peut également utilser une autre commande
 très utile qui permet de dire tout simplement de se déplacer en arrière.
 La commande git init nous permet d'initialiser notre projet.Cette dernière va ajouter un dossier caché .get.
-Finalement ce dossier va contenir un ensemble d'informations qui nous permettent la gestion de notre dossier comme étant un dépot git.
+Finalement ce dossier va contenir un ensemble d'informatiwons qui nous permettent la gestion de notre dossier comme étant un dépot git.
 Le dossier contient l'historique de nos midifications, la zone d'index, autres informations pour la gestion.
 
 ![](C:/Users/lenovo/Desktop/Git/depotlocal.PNG")
